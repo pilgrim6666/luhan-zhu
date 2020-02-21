@@ -5,7 +5,7 @@
 
             <div class="ref-box hreview">
                 <div class="ref-avatar">
-                    <img alt="" src="{{ '/styles/img/school.jpg' | prepend: site.baseurl }}" class="avatar avatar-54 photo" height="54" width="54">
+                    <img src="school.jpg" height="54" width="54">
                 </div>
 
                 <div class="ref-info">
@@ -15,7 +15,7 @@
                     </div>
 
                     <blockquote class="ref-cont clear-mrg">
-                        <p>学习计算机专业基础知识，奖学金。
+                        <p>学习计算机专业基础知识
                         </p>
                        
                     </blockquote>
@@ -35,13 +35,8 @@
 
                 <dt class="text-upper">出生日期</dt>
                 <dd>09 Jan 1999</dd>
-
-                <dt class="text-upper">手机</dt>
-                <dd>13105580565</dd>
- 
                 <dt class="text-upper">e-mail</dt>
                 <dd><a href="mailto:1850185711@qq.com">1850185711@qq.com</a></dd>
-
                 <dt class="text-upper">英语</dt>
                 <dd>CET-4</dd>
 
@@ -55,35 +50,16 @@
     <div class="pf-wrap">
         <div class="pf-grid">
 
-        <div class="pf-grid-sizer"></div><!-- used for sizing -->
-
-            <div class="pf-grid-item photography">
-                <div class="project">
-                    <figure class="portfolio-figure">
-                        <img src= "ibms.jpg" width="100%">
-                    </figure>
-                    <div class="portfolio-caption text-center"> 
-                        <div class="valign-table">
-                            <div class="valign-cell">
                                 <h2 class="text-upper">LAN安全网络管理系统</h2>
                                 <p>基于数据采集模型的网络管理系统，支持SNMP,Modbus,电总, NAT等协议。</p>
-                                <a href="#pf-popup-1" class="pf-btn-view btn btn-primary">详情</a>
                             </div>
                         </div>
-                    </div>
-
-                </div>
-                <div id="pf-popup-1" class="pf-popup clearfix">
-                    <div class="pf-popup-col1">
-                        <div class="pf-popup-media" style="background-image: url({{ '/styles/img/portfolio/ibms.jpg' | prepend: site.baseurl }}); background-repeat: no-repeat;background-size: cover;">
-                        </div>
-                    </div><!-- .pf-popup-col1 -->
-
                     <div class="pf-popup-col2">
                         <div class="pf-popup-info clear-mrg">
                             <h2 class="text-upper">网络体系结构管理系统</h2>
                             <p class="text-muted"><strong>design / development</strong></p>
                             <p>基于数据采集模型的H3C系统，支持ISO/OSI、TCP/IP、VLAN、各种LAN、WAN协议、各种路由协议、NAT等协议。</p>
+                            <img src="p1.jpg" width="100%">
                         </div><!-- .pf-popup-info -->
 
                     </div><!-- .pf-popup-col2 -->
