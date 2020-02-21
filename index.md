@@ -83,10 +83,6 @@
                         <div class="pf-popup-info clear-mrg">
                             <h2 class="text-upper">网络体系结构管理系统</h2>
                             <p class="text-muted"><strong>design / development</strong></p>
-                            <dl class="dl-horizontal">
-                                <dt>Demo展示地址:</dt>
-                                <dd><a href="https://gitee.com/xiaodan_yu/resume.io">Demo</a></dd>
-                            </dl>
                             <p>基于数据采集模型的H3C系统，支持ISO/OSI、TCP/IP、VLAN、各种LAN、WAN协议、各种路由协议、NAT等协议。</p>
                         </div><!-- .pf-popup-info -->
 
@@ -103,8 +99,6 @@
                     <div class="portfolio-caption text-center">
                         <div class="valign-table">
                             <div class="valign-cell">
-                                <h2 class="text-upper">Jekyll 简历模板</h2>
-                                <a href="https://gitee.com/xiaodan_yu/resume.io" class="pf-btn-view btn btn-primary" target="_blank">详情</a>
                             </div>
                         </div>
                     </div>
