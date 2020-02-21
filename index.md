@@ -38,7 +38,7 @@
 
                 <dt class="text-upper">手机</dt>
                 <dd>13105580565</dd>
-
+ 
                 <dt class="text-upper">e-mail</dt>
                 <dd><a href="mailto:1850185711@qq.com">1850185711@qq.com</a></dd>
 
@@ -60,7 +60,7 @@
             <div class="pf-grid-item photography">
                 <div class="project">
                     <figure class="portfolio-figure">
-                        <img src="{{ '/styles/img/portfolio/ibms.jpg' | prepend: site.baseurl }}" alt="">
+                        <img src= "ibms.jpg" width="100%">
                     </figure>
                     <div class="portfolio-caption text-center"> 
                         <div class="valign-table">
