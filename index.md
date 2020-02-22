@@ -5,7 +5,7 @@
 
             <div class="ref-box hreview">
                 <div class="ref-avatar">
-                    <img src="school.jpg" height="54" width="54">
+                    <img src="school.jpg" height="200" width="200">
                 </div>
 
                 <div class="ref-info">
@@ -63,39 +63,18 @@
                         </div><!-- .pf-popup-info -->
 
                     </div><!-- .pf-popup-col2 -->
-                </div><!-- .pf-popup -->
-            </div><!-- .pf-grid-item -->
-
-            <div class="pf-grid-item design">
-                <div class="project">
-                    <figure class="portfolio-figure">
-                        <img src="{{ '/styles/img/portfolio/prj-02.jpg' | prepend: site.baseurl }}" alt="">
-                    </figure>
-
-                    <div class="portfolio-caption text-center">
-                        <div class="valign-table">
-                            <div class="valign-cell">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div><!-- .pf-grid-item -->
 
             <div class="pf-grid-item photography">
                 <div class="project">
-                    <figure class="portfolio-figure">
-                        <img src="{{ '/styles/img/portfolio/ai.jpg' | prepend: site.baseurl }}" alt="">
-                    </figure>
 
                     <div class="portfolio-caption text-center">
                         <div class="valign-table">
                             <div class="valign-cell">
                                 <h2 class="text-upper">HUAWEI</h2>
                                 <p>熟悉HUAWEI产品线；会配置主 要型号的交换机 和路由器，不熟悉的设 备能够独立查资料配置；</p>
+                                     <img src="p2.jpg" width="100%">
                             </div>
                         </div>
-                    </div>
-                </div>
             </div><!-- .pf-grid-item -->
         </div>
     </div>
