@@ -5,7 +5,7 @@
 
             <div class="ref-box hreview">
                 <div class="ref-avatar">
-                    <img src="school.jpg" height="200" width="200">
+                    <img src="school.jpg" height="500" width="500">
                 </div>
 
                 <div class="ref-info">
